@@ -5,6 +5,11 @@ name = "pypi"
 
 [packages]
 kaggle = "*"
+jupyter = "*"
+matplotlib = "*"
+seaborn = "*"
+pandas = "*"
+numpy = "*"
 
 [dev-packages]
 
