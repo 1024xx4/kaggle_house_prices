@@ -12,6 +12,7 @@ pandas = "*"
 numpy = "*"
 scikit-learn = "*"
 lightgbm = "*"
+optuna = "*"
 
 [dev-packages]
 
